@@ -1,6 +1,8 @@
 interval
 ========
 
+Plays a sound at a regular interval
+
 Building
 --------
 
